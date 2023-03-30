@@ -1,6 +1,5 @@
 # trabalho-de-desenvolvimento-web
-by: Ana Karoline França do Vale
-    Érica de Oliveira Silva
+by: Ana Karoline França do Vale - Érica de Oliveira Silva
 
 2 ano de informática
 
